@@ -1,4 +1,4 @@
-# True Positive Phishing Case
+#Investigation 
 
 ## Incident Summary
 A job application status email was investigated after being reported for suspicious behavior. The email requested immediate action and redirected the user to a verification page.
