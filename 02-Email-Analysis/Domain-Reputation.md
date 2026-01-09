@@ -31,5 +31,6 @@ Contextual Analysis
 Final SOC Assessment: The fact that the domain is unregistered, combined with weak authentication and contextual red flags, confirms this is a malicious communication. Immediate block/blacklist action is recommended.
 
 
+<img width="1277" height="537" alt="Screenshot 2026-01-09 213044" src="https://github.com/user-attachments/assets/fcc72d45-538c-442e-a483-b02c1af263d6" />
 
 
