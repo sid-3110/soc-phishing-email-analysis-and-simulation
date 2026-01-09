@@ -9,3 +9,4 @@ Objective:
 - Capture realistic email headers
 - Demonstrate phishing workflow safely
 
+![phishing](https://github.com/user-attachments/assets/088e6110-1c13-4d4b-96c5-52a626f5eafd)
