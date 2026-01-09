@@ -15,5 +15,5 @@ At this stage, the email could not be confirmed as malicious based on content al
 
 **Next Step:**  
 Proceed with header and authentication analysis to validate the legitimacy of the sender.
-![Uploading Screenshot 2026-01-09 203035.png…]()
+<img width="1919" height="905" alt="Screenshot 2026-01-09 203035" src="https://github.com/user-attachments/assets/eea6fb39-a80e-4428-9415-d9d367b0d745" />
 
